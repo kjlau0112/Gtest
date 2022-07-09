@@ -1,3 +1,0 @@
-/home/kjlau0112/kjGoogleTest/CMakeFiles/rebuild_cache.dir
-/home/kjlau0112/kjGoogleTest/CMakeFiles/edit_cache.dir
-/home/kjlau0112/kjGoogleTest/CMakeFiles/runTests.dir
